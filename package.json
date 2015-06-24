@@ -1,0 +1,25 @@
+{
+  "name": "node-acl",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rolandnsharp/node-acl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolandnsharp/node-acl/issues"
+  },
+  "homepage": "https://github.com/rolandnsharp/node-acl",
+  "devDependencies": {
+    "tape": "^4.0.0"
+  },
+  "dependencies": {
+    "lodash": "^3.9.3"
+  }
+}
